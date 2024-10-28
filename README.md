@@ -1,2 +1,2 @@
 # Motive-bot
-motive bot
+Motive-bot is an AI-powered chatbot aimed at enhancing emotional well-being. It leverages Natural language processing and machine learning techniques.​ This project explores the development of a motivational chatbot leveraging the power of the DistilBERT model. DistilBERT's pre-trained capabilities for natural language processing offer a foundation for understanding user input and generating supportive, encouraging responses. By addressing limitations in data size the goal is to create a robust and impactful tool to empower users on their personal growth journeys
